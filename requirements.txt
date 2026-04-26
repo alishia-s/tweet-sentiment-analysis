@@ -1,0 +1,6 @@
+emoji==2.15.0
+emoticon-fix==0.3.0
+numpy==2.0.2
+py4j==0.10.9.5
+pyspark==3.3.1
+spark-nlp==6.3.3
